@@ -1,3 +1,7 @@
+# Introduce
+这是一篇 [awesome-react](https://github.com/enaqx/awesome-react) 的**轻量**版  
+可以帮你过滤掉一些 _信息_ ,以及帮助你提高一些 _效率_
+
 # Roadmap
 * React
 * [Learn React.js from Top 50 Articles for the Past Year (v.2019)](https://medium.mybridge.co/learn-react-js-from-top-50-articles-for-the-past-year-v-2019-baaacfc521c) 学习中...
