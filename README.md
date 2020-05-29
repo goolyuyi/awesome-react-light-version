@@ -9,8 +9,7 @@
 * [Hooks Rules](https://zh-hans.reactjs.org/docs/hooks-rules.html) 必读! 官方 Hooks 的使用建议
 
 # Example
-<img src="https://miro.medium.com/max/2000/1*7af_1QdcwQYpSxLh4rVo6w.gif" width="300" >
-
+<img src="medias/1_7af_1QdcwQYpSxLh4rVo6w.gif" width="300" >
 
 
 * [metaball 的示例](https://codesandbox.io/s/dank-wildflower-xlckb?file=/src/index.js), 非常精彩,使用了 react-spring的 [文章](https://medium.com/@drcmda/hooks-in-react-spring-a-tutorial-c6c436ad7ee4)
